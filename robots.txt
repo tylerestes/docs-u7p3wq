@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-x0ajf7.trans88.online/sitemap.xml
